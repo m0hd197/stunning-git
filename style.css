@@ -1,8 +1,13 @@
 h1{
     font-size: 3rem;
- 
+
 }
 
 body{
   background-color: lightgreen;
+}
+
+
+p{
+  color : pink;
 }
